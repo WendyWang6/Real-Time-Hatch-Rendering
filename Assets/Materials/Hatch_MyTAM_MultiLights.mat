@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hatch_MyTAM_MultiLights
+  m_Shader: {fileID: 4800000, guid: 444f51c98fe00234c9cdc38d8fc6e28b, type: 3}
+  m_ShaderKeywords: HATCH_BLEND_ATEND HATCH_DIFF_MAX HATCH_DIFF_OR_SPEC
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch0:
+        m_Texture: {fileID: 2800000, guid: 844672ffd119564469ff9a05313f8091, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch1:
+        m_Texture: {fileID: 2800000, guid: 3a102f073ed38354086462281de72495, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch10:
+        m_Texture: {fileID: 2800000, guid: 57ab45736813fbb4db683b5b3d7dc046, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch11:
+        m_Texture: {fileID: 2800000, guid: 953bbea5d60e0ce40a53f0a10333f6d9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch12:
+        m_Texture: {fileID: 2800000, guid: 5f5af3d0faf96504c83161c1e2910f0c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch13:
+        m_Texture: {fileID: 2800000, guid: dc29ee53b18956b439f58d25e2309de3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch14:
+        m_Texture: {fileID: 2800000, guid: 567eafaf29f774a4c98af49157a76fe8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch15:
+        m_Texture: {fileID: 2800000, guid: e130ec3f4969133489dfb23cedc9ab72, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch2:
+        m_Texture: {fileID: 2800000, guid: 66585dc5d8445cf4f833fa54e8689584, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch3:
+        m_Texture: {fileID: 2800000, guid: 44d200bd27e30574ebabfedbc2dc854f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch4:
+        m_Texture: {fileID: 2800000, guid: 33c8000b7f643494fae4327c60f719c6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch5:
+        m_Texture: {fileID: 2800000, guid: 2c72079cafd8ede42ab84a18002e6327, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch6:
+        m_Texture: {fileID: 2800000, guid: 5dd3bdc8c2bf9154795b94fd11175dca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch7:
+        m_Texture: {fileID: 2800000, guid: c75b8d85d1996ad448f332597f102f55, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch8:
+        m_Texture: {fileID: 2800000, guid: c79aeab6e178f1649baab29c3378fd83, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch9:
+        m_Texture: {fileID: 2800000, guid: 63f0d363fc741bf479b91df0b0e5aba4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TestTex:
+        m_Texture: {fileID: 2800000, guid: be05b011a37dab340a6991397f736738, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AmbIndex: 0
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DAndSMaxOrAdd: 0
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _HatchBlendAtEnd: 1
+    - _HatchDiffOrSpec: 1
+    - _HatchMaxDiff: 1
+    - _HatchRenderMethod: 0
+    - _LookUpValMaxOrAdd: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _ObjColorInLookUpVal: 0
+    - _ObjColorToHatch: 0
+    - _OcclusionStrength: 1
+    - _Outline: 0.01
+    - _Parallax: 0.02
+    - _ShowObjColor: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _TileFactor: 5
+    - _UVSec: 0
+    - _UnderlyingTexture: 0
+    - _ZWrite: 1
+    - _ambIndex: 0
+    m_Colors:
+    - _Bg: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Fg: {r: 0, g: 0, b: 0, a: 1}
+    - _ObjColorToHatch: {r: 1, g: 1, b: 1, a: 1}
+    - _ObjectColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TestColor: {r: 1, g: 1, b: 1, a: 1}
+    - _UnderlyingColor: {r: 1, g: 1, b: 1, a: 1}
+    - _bg: {r: 0.86721253, g: 0.7903168, b: 0.9056604, a: 1}
+    - _fg: {r: 0.111270905, g: 0, b: 1, a: 1}
+    - lightPos: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
