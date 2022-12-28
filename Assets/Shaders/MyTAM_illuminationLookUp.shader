@@ -273,7 +273,6 @@ Shader "Luyao/MyTAM_illuminationLookUp"
 				}
 
 				// Colored hatching: User chosen background color and forground color
-				// !!!!!!!!!!!!!!!!!!!!!!!!
 				return hatchColor.r * _Bg + (1 - hatchColor.r) * _Fg;
 			}
 
