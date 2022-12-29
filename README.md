@@ -4,6 +4,8 @@ The entire repo can be downloaded and open in Unity. All 3D models with animatio
 
 "MyTAMGenerator_Final_CleanupVersion.ipynb" is the TAM generator Python script. It should be able to be directly open and run in Jyputer notebook. 
 
+Results demonstration video is here: https://youtu.be/Ub9IYYCcDLE
+
 References: 
 Praun E, Hoppe H, Webb M, et al. Real-time hatching[C] Proceedings of the 28th annual conference on Computer graphics and interactive techniques. ACM, 2001: 581.
 L.L. Feng, Unity Shader Refined Introduction. Beijing, China: Posts & Telecom Press Co., Ltd. 2017.
